@@ -108,7 +108,7 @@ In the table the command produces, you will find the file size in bytes,
 the file’s owner, permissions to read and modify it, and the date/time
 of the last modification.
 
-To obtain the fourth character look up the file size in the [Table of
+To obtain the fourth character look up the file size as the *decimal* column of the [Table of
 printable ASCII
 characters](https://en.wikipedia.org/wiki/ASCII#Printable_characters):
 
