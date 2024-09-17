@@ -1,7 +1,7 @@
 The Bash Command Line
 =====================
 
-![*Tux, the Linux penguin*](tux.png)
+![*Tux, the Linux penguin*](images/tux.png)
 
 This tutorial makes you familiar with **bash**, the Linux command line. You will learn to:
 
@@ -24,7 +24,7 @@ your system.*
 
 In this tutorial, you will be looking for a word with 22 characters:
 
-![](solution.png)
+![](images/solution.png)
 
 All characters are hidden in the exercises below.
 
@@ -34,7 +34,7 @@ All characters are hidden in the exercises below.
 * locate the  `exercises/` folder
 * open a `bash` terminal
 
-![](preparations.png)
+![](images/preparations.png)
 
 ----
 
@@ -112,7 +112,7 @@ To obtain the fourth character look up the file size in the [Table of
 printable ASCII
 characters](https://en.wikipedia.org/wiki/ASCII#Printable_characters):
 
-![](ASCII-Table-wide.svg)
+![](images/ASCII-Table-wide.svg)
 
 *ASCII Table, Public Domain*
 
